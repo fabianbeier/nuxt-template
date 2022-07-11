@@ -10,6 +10,9 @@ export default defineNuxtConfig({
       "nuxt-directus",
       '@vueuse/nuxt',
    ],
+   css: [
+      "@/assets/main.css"
+   ],
     directus: {
       url: 'https://cms.futuretales.space/'
     }

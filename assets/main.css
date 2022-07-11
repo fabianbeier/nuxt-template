@@ -1,0 +1,5 @@
+@import url("~/assets/inter/inter.css");
+
+body{
+   @apply bg-light-600 font-inter font-medium
+}
